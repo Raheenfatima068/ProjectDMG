@@ -17,3 +17,7 @@ namespace ProjectDMG {
         }
     }
 }
+int a = 6;
+int b= 8;
+int sum = a +b;
+Console.WriteLine("The sum of two numbers a and b: + sum");
